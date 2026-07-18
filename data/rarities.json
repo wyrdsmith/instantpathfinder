@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Common",
+        "probability": 0.6
+    },
+    {
+        "name": "Uncommon",
+        "probability": 0.3
+    },
+    {
+        "name": "Rare",
+        "probability": 0.1
+    }
+]
