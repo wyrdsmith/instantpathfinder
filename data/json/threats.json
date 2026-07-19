@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Trivial",
+        "experience": 40,
+        "adjustment": 10
+    },
+    {
+        "name": "Low",
+        "experience": 60,
+        "adjustment": 20
+    },
+    {
+        "name": "Moderate",
+        "experience": 80,
+        "adjustment": 20
+    },
+    {
+        "name": "Severe",
+        "experience": 120,
+        "adjustment": 30
+    },
+    {
+        "name": "Extreme",
+        "experience": 160,
+        "adjustment": 40
+    }
+]

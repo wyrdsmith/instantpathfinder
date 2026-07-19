@@ -1,5 +1,9 @@
 import json;
+import sys;
 
-data = json.load(open('../data/classes.json',encoding='utf-8'));
+file = sys.argv[1];
 
-json.dump(data,open('../data/classes.json','w',encoding='utf-8'),indent=2)
+data = json.load(open(file, encoding='utf-8'));
+
+with open(file,'w',encoding='utf-8') as f:
+    json.dump(data,f,indent=2);

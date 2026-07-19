@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Trivial"
+    },
+    {
+        "name": "Low"
+    },
+    {
+        "name": "Moderate"
+    },
+    {
+        "name": "Severe"
+    },
+    {
+        "name": "Extreme"
+    }
+]
